@@ -46,5 +46,5 @@
 
 ## Contributors:
 - **Bùi Văn khải**: 33,33%
-- **Thái Hoàng Bách**: 33,33%
+- **Thái Nguyễn Hoàng Bách**: 33,33%
 - **Nguyễn Đức**: 33,33%
